@@ -15,6 +15,4 @@ Number of bank accounts!
 Occupation
 
 Credit Score Classification: The predictor classifies the input into one of the following credit score categories:
-Poor,
-Standard,
-Good
+Poor, Standard, Good
